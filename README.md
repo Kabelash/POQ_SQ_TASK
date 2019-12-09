@@ -1,4 +1,4 @@
-I have used MVVM architecture & following frameworks to complete the task:
+I have used Kotin with MVVM architecture & following frameworks to complete the task:
 
 Retrofit 2,
 Dagger 2,
